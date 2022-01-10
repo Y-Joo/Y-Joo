@@ -14,6 +14,10 @@
 ## ▎📚 Notion
 - ### https://lovely-course-948.notion.site/82a85e84231246d8b131c57bdf956950
 
+## | Baekjoon
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldudwn77)](https://solved.ac/wldudwn77)
+![wldudwn77's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wldudwn77)
+
 <!-- <h3 align='center'>Hi there 👋</h3>
 <br>
 <p align='center'>
