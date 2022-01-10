@@ -1,4 +1,4 @@
-# ▎안녕하세요,<br>▎개발자<br>▎지영주입니다.
+# ▎안녕하세요, 개발자 지영주입니다.
 
 ## ▎🛠 Tech Stacks
 - Back-end : <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></span>
