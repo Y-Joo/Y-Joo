@@ -11,11 +11,8 @@
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></span><br/>
 - Deploy : <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></span>
 
-## ▎📚 Blog For Learning
-- ### https://velog.io/@colorful-stars
-
-## ▎🧑‍💻 Portfolio Notion
-- ### https://www.notion.so/3d45c6bd2cbd4f938873a4bd12e23375
+## ▎📚 Notion
+- ### https://lovely-course-948.notion.site/82a85e84231246d8b131c57bdf956950
 
 <!-- <h3 align='center'>Hi there 👋</h3>
 <br>
