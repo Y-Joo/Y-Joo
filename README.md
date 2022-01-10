@@ -6,14 +6,10 @@
 
 ## ▎🛠 Tech Stacks
 - Back-end : <span><img src="https://img.shields.io/badge/Django-e34f26?style=flat&logo=Django&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Node.js-e34f26?style=flat&logo=Node.js&logoColor=white"/></span>
 - Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/>
-- Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
-- Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/MongoDB-F80000?style=flat&logo=MongoDB&logoColor=white"/></span><br/>
+- Deploy : <span><img src="https://img.shields.io/badge/Amazon AWS-4479A1?style=flat&logo=Amazon AWS&logoColor=white"/></span>
 
 ## ▎📚 Blog For Learning
 - ### https://velog.io/@colorful-stars
