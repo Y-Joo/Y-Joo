@@ -12,7 +12,7 @@
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
 
 ## ▎📚 Notion
-### https://y-joo.notion.site/d4b46ab884b54b41b94fa2b653454ca0?v=8c28ebe372244a8283cda5310d13d037
+### https://y-joo.notion.site/82a85e84231246d8b131c57bdf956950
 
 ## ▎🧑‍💻 Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldudwn77)](https://solved.ac/wldudwn77)
