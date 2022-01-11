@@ -7,7 +7,7 @@
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></span><br/>
 - Deploy : <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></span>
 
-![Y-Joo's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Y-Joo&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Y-Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-Joo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Joo&layout=compact&theme=material-palenight)
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
 
