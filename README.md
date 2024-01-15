@@ -1,15 +1,22 @@
-## ▎Backend Developer
+## ▎💤 Youngjoo, Ji
+- ***Backend Developer***
+- Interested in ***joining startup***
+- Trying to be ***busy***
 
-42Seoul 5th Cadet
+## ▎📖 Experience
 
-SW Maestro 13th
+- ***42Seoul*** 5th Cadet (2021.10 - 2022.04)
+- ***SW Maestro*** 13th (2022.05 - 2022.12)
+- ***Bid Corporation*** CTO(2023.01 - 2023.12)
+- ***SW Maestro*** 14th expert (2023.04 - 2023.09)
+- ***ALOM*** Server Mentor (2023.08 - 2023.12)
+- ***Yapp*** 23rd (2023.11 - Present)
 
-Currently studying Spring Boot
 
 ## ▎🛠 Tech Stacks
-- Back-end : <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></span>
+- Back-end : <span><img src="https://img.shields.io/badge/Spring-339933?style=flat&logo=Spring&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Spring-339933?style=flat&logo=Spring&logoColor=white"/></span>
 - Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></span><br/>
 - Deploy : <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></span>
