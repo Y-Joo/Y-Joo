@@ -5,13 +5,12 @@
 
 ## ▎📖 Experience
 
-- ***42Seoul*** 5th Cadet (2021.10 - 2022.04)
-- ***SW Maestro*** 13th (2022.05 - 2022.12)
-- ***Bid Corporation*** CTO(2023.01 - 2023.12)
-- ***SW Maestro*** 14th expert (2023.04 - 2023.09)
-- ***ALOM*** Server Mentor (2023.08 - 2023.12)
 - ***Yapp*** 23rd (2023.11 - Present)
-
+- ***ALOM*** Server Mentor (2023.08 - 2023.12)
+- ***SW Maestro*** 14th expert (2023.04 - 2023.09)
+- ***Bid Corporation*** Co-Founder(2023.01 - 2023.12)
+- ***SW Maestro*** 13th (2022.05 - 2022.12)
+- ***42Seoul*** 5th Cadet (2021.10 - 2022.04)
 
 ## ▎🛠 Tech Stacks
 - Back-end : <span><img src="https://img.shields.io/badge/Spring-339933?style=flat&logo=Spring&logoColor=white"/></span>
