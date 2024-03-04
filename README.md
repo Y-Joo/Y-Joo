@@ -3,6 +3,9 @@
 - Interested in ***joining startup***
 - Trying to be ***busy***
 
+## ▎👔 Work Experience
+- ***AB180*** Backend Engineer Intern
+
 ## ▎📖 Experience
 
 - ***Yapp*** 23rd (2023.11 - Present)
