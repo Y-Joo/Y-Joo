@@ -4,7 +4,7 @@
 - Trying to be ***busy***
 
 ## ▎👔 Work Experience
-- ***AB180*** Backend Engineer (2024.03 - Present)
+- ***AB180*** Backend Engineer (2024.03 - 2024.11)
 
 ## ▎📖 Experience
 
