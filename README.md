@@ -19,7 +19,6 @@
 
 ![Y-Joo's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Y-Joo&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 
-## ▎🧑‍💻 Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldudwn77)](https://solved.ac/wldudwn77)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY-Joo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
