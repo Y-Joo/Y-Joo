@@ -8,8 +8,9 @@
 
 ## ▎📖 Experience
 
+- ***Nexters*** 26th BE (2025.01 - 2025.03)
 - ***Yapp*** 24th Server Operator (2024.05 - 2024.09)
-- ***Yapp*** 23rd (2023.11 - 2024.02)
+- ***Yapp*** 23rd Server (2023.11 - 2024.02)
 - ***ALOM*** Server Mentor (2023.08 - 2023.12)
 - ***SW Maestro*** 14th, 15th expert (2023.04 - 2024.08)
 - ***Bid Corporation*** Co-Founder(2023.01 - 2023.12)
