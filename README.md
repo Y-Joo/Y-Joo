@@ -1,6 +1,5 @@
 ## ▎💤 Youngjoo, Ji
 - ***Backend Developer***
-- Interested in ***joining startup***
 - Trying to be ***busy***
 
 ## ▎👔 Work Experience
