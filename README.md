@@ -4,6 +4,7 @@
 - Trying to be ***busy***
 
 ## ▎👔 Work Experience
+- ***Hyundai Autoever*** Backend Engineer(2025.01 - Present)
 - ***AB180*** Backend Engineer (2024.03 - 2024.11)
 
 ## ▎📖 Experience
